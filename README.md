@@ -1,5 +1,5 @@
 # Unity cena luta
-Explicando a criação de uma cena utilizando física no unity
+Explicando a criação de uma cena utilizando física no unity.
 
 ## Explicação da cena
 
@@ -37,5 +37,10 @@ https://github.com/guiffons/Unity-cena/assets/165830697/4a27d128-c11f-44d2-9199-
 ![rio colisão](https://github.com/guiffons/Unity-cena/assets/165830697/041f8b60-6850-415d-beb6-645c1e66c614)
 
 #### A colisão quadrada foi adicionada no rio para o poder não atravessar o cénario.
+
+### Luz da espada
+
+![espada luz](https://github.com/guiffons/Unity-cena/assets/165830697/d85c1272-5a3a-44ff-8704-c155b56fa1d8)
+
 
 
