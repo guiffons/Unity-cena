@@ -16,7 +16,7 @@ https://github.com/guiffons/Unity-cena/assets/165830697/4a27d128-c11f-44d2-9199-
 ![vale do fim (naruto)](https://github.com/guiffons/Unity-cena/assets/165830697/b9a58534-a879-4c4d-9772-043fc90589f5)
 ![espada (minecraft)](https://github.com/guiffons/Unity-cena/assets/165830697/6638d269-d61d-4c5e-8f8b-12727ea7f400)
 
-#### todos foram adicionados ao unity baixando no formato "fbx" e arrastando os arquivos descompactados do gerenciador de arquivos para a aba de projeto.
+#### Todos foram adicionados ao unity baixando no formato "fbx" e arrastando os arquivos descompactados do gerenciador de arquivos para a aba de projeto.
 
 ![explicação assets 1](https://github.com/guiffons/Unity-cena/assets/165830697/22f90468-747e-47b9-b821-6a4c37fd3cbc)
 ![explicação assets 2](https://github.com/guiffons/Unity-cena/assets/165830697/109865ff-9727-45c4-9d3c-3c91392438f1)
@@ -52,6 +52,12 @@ https://github.com/guiffons/Unity-cena/assets/165830697/4a27d128-c11f-44d2-9199-
 ![espada luz](https://github.com/guiffons/Unity-cena/assets/165830697/d85c1272-5a3a-44ff-8704-c155b56fa1d8)
 
 #### Foi adiicona para dar um efeito de poder para o personagem.
+
+### Orb do mewtwo
+
+![orb cena](https://github.com/guiffons/Unity-cena/assets/165830697/25013ff7-3f67-40b4-aca0-73af7262c959)
+
+#### Foi baixado da internte pelo Sketchfab para ser utilizado como um poder do Pokémon, futumente podendo ser lançado contra o Caneta Azul, com os novos conheciemntos sobre o Unity e suas propriedades.
 
 
 
