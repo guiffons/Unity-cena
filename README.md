@@ -59,6 +59,9 @@ https://github.com/guiffons/Unity-cena/assets/165830697/4a27d128-c11f-44d2-9199-
 
 #### Foi baixado da internte pelo Sketchfab para ser utilizado como um poder do Pokémon, futumente podendo ser lançado contra o Caneta Azul, com novos conhecimentos sobre o Unity e suas propriedades.
 
+## Nomes da dupla:
+
+### Enzo Luciano da Silva e Guilherme Fonseca da Silva
 
 
 
