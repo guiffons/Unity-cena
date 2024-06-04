@@ -29,11 +29,13 @@ https://github.com/guiffons/Unity-cena/assets/165830697/4a27d128-c11f-44d2-9199-
 ![poder proprieddades 1](https://github.com/guiffons/Unity-cena/assets/165830697/64af9e62-aa2d-4e59-993e-5f4bd72c99df)
 ![poder propriedades 2](https://github.com/guiffons/Unity-cena/assets/165830697/22edac57-0036-4a94-bd53-a2d6c34c5f99)
 
-#### a implementação do poder sendo desse tamanho foi para dar o efeito de que ele esta se movimentando, uma forma de resolver o problema de ainda não sabermos lançar objetos no unity
+#### A implementação do poder sendo desse tamanho foi para dar o efeito de que ele esta se movimentando, uma forma de resolver o problema de ainda não sabermos lançar objetos no unity.
 
 ### Rio
 
-![rio colisão](https://github.com/guiffons/Unity-cena/assets/165830697/041f8b60-6850-415d-beb6-645c1e66c614)
 ![rio](https://github.com/guiffons/Unity-cena/assets/165830697/46bf7b79-a504-408a-b4e2-f261b5764b67)
+![rio colisão](https://github.com/guiffons/Unity-cena/assets/165830697/041f8b60-6850-415d-beb6-645c1e66c614)
+
+#### A colisão quadrada foi adicionada no rio para o poder não atravessar o cénario.
 
 
