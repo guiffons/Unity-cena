@@ -28,3 +28,5 @@ https://github.com/guiffons/Unity-cena/assets/165830697/4a27d128-c11f-44d2-9199-
 ![poder texturas](https://github.com/guiffons/Unity-cena/assets/165830697/13c06a3c-aae1-44a8-b7ba-42af6c1a028c)
 ![poder proprieddades 1](https://github.com/guiffons/Unity-cena/assets/165830697/64af9e62-aa2d-4e59-993e-5f4bd72c99df)
 ![poder propriedades 2](https://github.com/guiffons/Unity-cena/assets/165830697/22edac57-0036-4a94-bd53-a2d6c34c5f99)
+
+#### a implementação do poder sendo desse tamanho foi para dar o efeito de que ele esta se movimentando, uma forma de resolver o problema de ainda não sabermos lançar objetos no unity
