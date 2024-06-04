@@ -7,7 +7,7 @@ ela consiste na luta entre o personagem mewtwo de pokémon e o famoso cantor man
 
 https://github.com/guiffons/Unity-cena/assets/165830697/4a27d128-c11f-44d2-9199-acb2da816c25
 
-## Assets utilizados
+## Assets utilizados da internet
 ### Sketchfab
 
 ![orb](https://github.com/guiffons/Unity-cena/assets/165830697/43cb5091-4c05-48a8-95df-c14123b86b53)
@@ -16,7 +16,10 @@ https://github.com/guiffons/Unity-cena/assets/165830697/4a27d128-c11f-44d2-9199-
 ![vale do fim (naruto)](https://github.com/guiffons/Unity-cena/assets/165830697/b9a58534-a879-4c4d-9772-043fc90589f5)
 ![espada (minecraft)](https://github.com/guiffons/Unity-cena/assets/165830697/6638d269-d61d-4c5e-8f8b-12727ea7f400)
 
-#### todos foram adicionados ao unity baixando no formato "fbx" e arrastando os arquivos descompactados do gerenciador de arquivos para a aba de 
+#### todos foram adicionados ao unity baixando no formato "fbx" e arrastando os arquivos descompactados do gerenciador de arquivos para a aba de projeto.
+
+![explicação assets 1](https://github.com/guiffons/Unity-cena/assets/165830697/22f90468-747e-47b9-b821-6a4c37fd3cbc)
+![explicação assets 2](https://github.com/guiffons/Unity-cena/assets/165830697/109865ff-9727-45c4-9d3c-3c91392438f1)
 
 ## Objetos da cena e suas propriedades
 ### Luz da cena
