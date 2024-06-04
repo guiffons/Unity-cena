@@ -57,7 +57,7 @@ https://github.com/guiffons/Unity-cena/assets/165830697/4a27d128-c11f-44d2-9199-
 
 ![orb cena](https://github.com/guiffons/Unity-cena/assets/165830697/25013ff7-3f67-40b4-aca0-73af7262c959)
 
-#### Foi baixado da internte pelo Sketchfab para ser utilizado como um poder do Pokémon, futumente podendo ser lançado contra o Caneta Azul, com os novos conheciemntos sobre o Unity e suas propriedades.
+#### Foi baixado da internte pelo Sketchfab para ser utilizado como um poder do Pokémon, futumente podendo ser lançado contra o Caneta Azul, com novos conhecimentos sobre o Unity e suas propriedades.
 
 
 
